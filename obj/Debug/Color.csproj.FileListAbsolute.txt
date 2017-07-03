@@ -1,0 +1,28 @@
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\obj\Debug\Color.csprojResolveAssemblyReference.cache
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\obj\Debug\Color.MainForm.resources
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\obj\Debug\Color.csproj.GenerateResource.Cache
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\Color.exe
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\Color.pdb
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.dll
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.Neuro.dll
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.Genetic.dll
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.Math.dll
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.xml
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.Neuro.xml
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.Genetic.xml
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\bin\Debug\AForge.Math.xml
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\obj\Debug\Color.exe
+E:\Facens\INTELIGÊNCIA COMPUTACIONAL - LAB\Color\obj\Debug\Color.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\obj\Debug\Color.exe
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\obj\Debug\Color.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\Color.exe
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\Color.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\AForge.Genetic.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\AForge.Math.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\AForge.xml
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\AForge.Neuro.xml
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\AForge.Genetic.xml
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\bin\Debug\AForge.Math.xml
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\obj\Debug\Color.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\obj\Debug\Color.MainForm.resources
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\M2\Color\obj\Debug\Color.csproj.GenerateResource.Cache
